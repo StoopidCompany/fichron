@@ -1,0 +1,325 @@
+title: Arrowverse
+parent: snyderverse
+multiverse: true
+primary_timeline:
+  # Phase 1: Origins & Early Team-Ups
+  - title: Arrow 1x01 "Pilot"
+    type: episode
+    fichron_start: 2012-10-10
+    fichron_end: 2012-10-10
+    arrowverse_timeline: true
+    notes: Introduces Oliver Queen/Green Arrow origin
+    
+  - title: The Flash 1x01 "Pilot"
+    type: episode
+    fichron_start: 2014-10-07
+    fichron_end: 2014-10-07
+    arrowverse_timeline: true
+    notes: Barry Allen origin, first Crisis newspaper tease
+    
+  - title: The Flash 1x23 "Fast Enough"
+    type: episode
+    fichron_start: 2015-05-19
+    fichron_end: 2015-05-19
+    arrowverse_timeline: true
+    notes: More Crisis newspaper details revealed
+    
+  - title: The Flash 1x08 "Flash vs. Arrow"
+    type: episode
+    fichron_start: 2014-12-02
+    fichron_end: 2014-12-02
+    arrowverse_timeline: true
+    notes: First crossover part 1
+    
+  - title: Arrow 3x08 "The Brave and the Bold"
+    type: episode
+    fichron_start: 2014-12-03
+    fichron_end: 2014-12-03
+    arrowverse_timeline: true
+    notes: First crossover part 2
+    
+  # Phase 2: Multiverse Foundation
+  - title: The Flash 2x02 "Flash of Two Worlds"
+    type: episode
+    fichron_start: 2015-10-13
+    fichron_end: 2015-10-13
+    arrowverse_timeline: true
+    notes: Introduces Earth-2 and multiverse concept
+    
+  - title: The Flash 2x08 "Legends of Today"
+    type: episode
+    fichron_start: 2015-12-01
+    fichron_end: 2015-12-01
+    arrowverse_timeline: true
+    notes: Legends setup crossover part 1
+    
+  - title: Arrow 4x08 "Legends of Yesterday"
+    type: episode
+    fichron_start: 2015-12-02
+    fichron_end: 2015-12-02
+    arrowverse_timeline: true
+    notes: Legends setup crossover part 2
+    
+  - title: Supergirl 1x01 "Pilot"
+    type: episode
+    fichron_start: 2015-10-26
+    fichron_end: 2015-10-26
+    arrowverse_timeline: true
+    notes: Introduces Kara Danvers/Supergirl on Earth-38
+    
+  - title: Supergirl 1x18 "Worlds Finest"
+    type: episode
+    fichron_start: 2016-03-28
+    fichron_end: 2016-03-28
+    arrowverse_timeline: true
+    notes: Barry crosses to Earth-38, confirms multiverse travel
+    
+  - title: Legends of Tomorrow 1x01 "Pilot, Part 1"
+    type: episode
+    fichron_start: 2016-01-21
+    fichron_end: 2016-01-21
+    arrowverse_timeline: true
+    notes: Legends team assembles part 1
+    
+  - title: Legends of Tomorrow 1x02 "Pilot, Part 2"
+    type: episode
+    fichron_start: 2016-01-28
+    fichron_end: 2016-01-28
+    arrowverse_timeline: true
+    notes: Legends team assembles part 2
+    
+  # Phase 3: Major Crossovers
+  - title: The Flash 3x08 "Invasion!"
+    type: episode
+    fichron_start: 2016-11-29
+    fichron_end: 2016-11-29
+    arrowverse_timeline: true
+    notes: Invasion crossover part 1, interdimensional extrapolator created
+    
+  - title: Arrow 5x08 "Invasion!"
+    type: episode
+    fichron_start: 2016-11-30
+    fichron_end: 2016-11-30
+    arrowverse_timeline: true
+    notes: Invasion crossover part 2
+    
+  - title: Legends of Tomorrow 2x07 "Invasion!"
+    type: episode
+    fichron_start: 2016-12-01
+    fichron_end: 2016-12-01
+    arrowverse_timeline: true
+    notes: Invasion crossover part 3
+    
+  - title: Supergirl 3x08 "Crisis on Earth-X, Part 1"
+    type: episode
+    fichron_start: 2017-11-27
+    fichron_end: 2017-11-27
+    arrowverse_timeline: true
+    notes: Earth-X crossover part 1
+    
+  - title: Arrow 6x08 "Crisis on Earth-X, Part 2"
+    type: episode
+    fichron_start: 2017-11-27
+    fichron_end: 2017-11-27
+    arrowverse_timeline: true
+    notes: Earth-X crossover part 2
+    
+  - title: The Flash 4x08 "Crisis on Earth-X, Part 3"
+    type: episode
+    fichron_start: 2017-11-28
+    fichron_end: 2017-11-28
+    arrowverse_timeline: true
+    notes: Earth-X crossover part 3
+    
+  - title: Legends of Tomorrow 3x08 "Crisis on Earth-X, Part 4"
+    type: episode
+    fichron_start: 2017-11-28
+    fichron_end: 2017-11-28
+    arrowverse_timeline: true
+    notes: Earth-X crossover part 4
+    
+  # Phase 4: Direct Crisis Setup
+  - title: The Flash 5x09 "Elseworlds, Part 1"
+    type: episode
+    fichron_start: 2018-12-09
+    fichron_end: 2018-12-09
+    arrowverse_timeline: true
+    notes: Monitor introduced, Batwoman debut
+    
+  - title: Arrow 7x09 "Elseworlds, Part 2"
+    type: episode
+    fichron_start: 2018-12-10
+    fichron_end: 2018-12-10
+    arrowverse_timeline: true
+    notes: Elseworlds crossover part 2
+    
+  - title: Supergirl 4x09 "Elseworlds, Part 3"
+    type: episode
+    fichron_start: 2018-12-11
+    fichron_end: 2018-12-11
+    arrowverse_timeline: true
+    notes: Crisis on Infinite Earths announced post-credits
+    
+  - title: The Flash 5x22 "Legacy"
+    type: episode
+    fichron_start: 2019-05-14
+    fichron_end: 2019-05-14
+    arrowverse_timeline: true
+    notes: Crisis date moves to December 2019
+    
+  - title: Arrow 7x22 "You Have Saved This City"
+    type: episode
+    fichron_start: 2019-05-13
+    fichron_end: 2019-05-13
+    arrowverse_timeline: true
+    notes: Monitor makes deal with Oliver for his death
+    
+  - title: Supergirl 4x22 "The Quest for Peace"
+    type: episode
+    fichron_start: 2019-05-19
+    fichron_end: 2019-05-19
+    arrowverse_timeline: true
+    notes: Monitor resurrects Lex Luthor
+    
+  # Phase 5: Immediate Crisis Preparation
+  - title: Batwoman 1x01 "Pilot"
+    type: episode
+    fichron_start: 2019-10-06
+    fichron_end: 2019-10-06
+    arrowverse_timeline: true
+    notes: Kate Kane series introduction
+    
+  - title: Batwoman 1x08 "A Mad Tea-Party"
+    type: episode
+    fichron_start: 2019-12-01
+    fichron_end: 2019-12-01
+    arrowverse_timeline: true
+    notes: Final episode before Crisis
+    
+  - title: The Flash 6x01 "Into the Void"
+    type: episode
+    fichron_start: 2019-10-08
+    fichron_end: 2019-10-08
+    arrowverse_timeline: true
+    notes: Monitor confirms Barry must die
+    
+  - title: The Flash 6x02 "A Flash of the Lightning"
+    type: episode
+    fichron_start: 2019-10-15
+    fichron_end: 2019-10-15
+    arrowverse_timeline: true
+    notes: Barry sees Crisis timelines
+    
+  - title: The Flash 6x08 "The Last Temptation of Barry Allen, Part 2"
+    type: episode
+    fichron_start: 2019-12-03
+    fichron_end: 2019-12-03
+    arrowverse_timeline: true
+    notes: Anti-Monitor released
+    
+  - title: Arrow 8x01 "Starling City"
+    type: episode
+    fichron_start: 2019-10-15
+    fichron_end: 2019-10-15
+    arrowverse_timeline: true
+    notes: Oliver's multiverse missions begin, Earth-2 destroyed
+    
+  - title: Arrow 8x02 "Welcome to Hong Kong"
+    type: episode
+    fichron_start: 2019-10-22
+    fichron_end: 2019-10-22
+    arrowverse_timeline: true
+    notes: Lyla revealed as Harbinger
+    
+  - title: Arrow 8x03 "Leap of Faith"
+    type: episode
+    fichron_start: 2019-10-29
+    fichron_end: 2019-10-29
+    arrowverse_timeline: true
+    notes: Oliver investigates Monitor
+    
+  - title: Arrow 8x04 "Present Tense"
+    type: episode
+    fichron_start: 2019-11-05
+    fichron_end: 2019-11-05
+    arrowverse_timeline: true
+    notes: Future heroes brought to present
+    
+  - title: Arrow 8x05 "Prochnost"
+    type: episode
+    fichron_start: 2019-11-12
+    fichron_end: 2019-11-12
+    arrowverse_timeline: true
+    notes: Gathering Crisis weapons
+    
+  - title: Arrow 8x06 "Reset"
+    type: episode
+    fichron_start: 2019-11-19
+    fichron_end: 2019-11-19
+    arrowverse_timeline: true
+    notes: Monitor tests Oliver
+    
+  - title: Arrow 8x07 "Purgatory"
+    type: episode
+    fichron_start: 2019-12-03
+    fichron_end: 2019-12-03
+    arrowverse_timeline: true
+    notes: Crisis begins with red skies
+    
+  - title: Black Lightning 3x09 "The Book of Resistance: Chapter Four"
+    type: episode
+    fichron_start: 2019-12-09
+    fichron_end: 2019-12-09
+    arrowverse_timeline: true
+    notes: Freeland destroyed, Jefferson saved by Monitor
+    
+  # Crisis on Infinite Earths
+  - title: Supergirl 5x09 "Crisis on Infinite Earths: Part One"
+    type: episode
+    fichron_start: 2019-12-08
+    fichron_end: 2019-12-08
+    arrowverse_timeline: true
+    notes: Earth-38 destroyed, Oliver dies
+    
+  - title: Batwoman 1x09 "Crisis on Infinite Earths: Part Two"
+    type: episode
+    fichron_start: 2019-12-09
+    fichron_end: 2019-12-09
+    arrowverse_timeline: true
+    notes: Paragon search continues
+    
+  - title: The Flash 6x09 "Crisis on Infinite Earths: Part Three"
+    type: episode
+    fichron_start: 2019-12-10
+    fichron_end: 2019-12-10
+    arrowverse_timeline: true
+    notes: Multiverse destroyed, only Paragons survive
+    
+  - title: Arrow 8x08 "Crisis on Infinite Earths: Part Four"
+    type: episode
+    fichron_start: 2020-01-14
+    fichron_end: 2020-01-14
+    arrowverse_timeline: true
+    notes: Oliver becomes Spectre
+    
+  - title: Legends of Tomorrow Special "Crisis on Infinite Earths: Part Five"
+    type: episode
+    fichron_start: 2020-01-14
+    fichron_end: 2020-01-14
+    arrowverse_timeline: true
+    notes: Multiverse reborn as Earth-Prime, Oliver's final sacrifice
+    
+  # Post-Crisis Epilogue
+  - title: Arrow 8x09 "Green Arrow and The Canaries"
+    type: episode
+    fichron_start: 2020-01-21
+    fichron_end: 2020-01-21
+    arrowverse_timeline: true
+    notes: 2040 future on Earth-Prime
+    
+  - title: Arrow 8x10 "Fadeout"
+    type: episode
+    fichron_start: 2020-01-28
+    fichron_end: 2020-01-28
+    arrowverse_timeline: true
+    notes: Oliver's funeral, series finale

@@ -1,0 +1,187 @@
+title: Multiverse Saga
+parent: 01-infinity_saga.yaml
+multiverse: true
+primary_timeline:
+  - title: WandaVision
+    type: show 
+    sacred_timeline: true
+    fichron_start: "2023"
+    fichron_end: "2023"
+  - title: Shang-Chi
+    type: movie 
+    sacred_timeline: true 
+    fichron_start: "2023"
+    fichron_end: "2023"
+  - title: Falcon and the Winter Soldier
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2023"
+    fichron_end: "2024"
+  - title: "Spider-Man: Far From Home"
+    type: movie 
+    sacred_timeline: true 
+    fichron_start: "2024"
+    fichron_end: "2024"
+  - title: Loki Season 1-2
+    type: show
+    sacred_timeline: true
+    fichron_start: "2012"
+    fichron_end: "infinity" 
+  - title: "Spider-Man: No Way Home"
+    type: movie 
+    sacred_timeline: true 
+    fichron_start: "2024"
+    fichron_end: "2024"
+  - title: The Eternals
+    type: movie 
+    sacred_timeline: true 
+    fichron_start: "2024"
+    fichron_end: "2024"
+  - title: Hawkeye
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2024"
+    fichron_end: "2024"
+  - title: Echo
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: VisionQuest
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: Moon Knight 
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: "Black Panther: Wakanda Forever"
+    type: movie 
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: "Thor: Love and Thunder"
+    type: movie 
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: She-Hulk
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: Ms. Marvel
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: What If Season 1
+    type: show 
+    sacred_timeline: false 
+  - title: Doctor Strange and the Multiverse of Madness
+    type: movie
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: Warewolf By Night
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: Marvel Zombies Season 1
+    type: show 
+    sacred_timeline: false 
+  - title: "Guardians of the Galaxy: Holiday Special"
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: "Ant-Man and the Wasp: Quantumania"
+    type: movie 
+    sacred_timeline: true
+    fichron_start: "2026"
+    fichron_end: "2026"
+  - title: "Fantastic Four: First Steps"
+    type: movie 
+    sacred_timeline: false
+  - title: What If Season 2
+    type: show 
+    sacred_timeline: false 
+  - title: Secret Invasion
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2026"
+    fichron_end: "2026"
+  - title: Guardians of the Galaxy Vol. 3
+    type: movie 
+    sacred_timeline: true
+    fichron_start: "2026"
+    fichron_end: "2026"
+  - title: The Marvels
+    type: movie 
+    sacred_timeline: true
+    fichron_start: "2026"
+    fichron_end: "2026"
+  - title: What If Season 3
+    type: show 
+    sacred_timeline: false 
+  - title: Deadpool 3
+    type: movie 
+    sacred_timeline: false
+  - title: Agatha All Along
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2026"
+    fichron_end: "2026"
+  - title: "Daredevil: Born Again Season 1" 
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2026"
+    fichron_end: "2027"
+  - title: "Captain America: Brave New World"
+    type: movie 
+    sacred_timeline: true
+    fichron_start: "2027"
+    fichron_end: "2027"
+  - title: Thunderbolts*
+    type: movie 
+    sacred_timeline: true
+    fichron_start: "2027"
+    fichron_end: "2027"
+  - title: Ironheart
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2027"
+    fichron_end: "2027"
+  - title: Wonder Man
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2028"
+    fichron_end: "2028"
+  - title: "Daredevil: Born Again Season 2" 
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2028"
+    fichron_end: "2028"
+  - title: Punisher Special Presentation
+    type: show 
+    sacred_timeline: true
+    fichron_start: "tbd"
+    fichron_end: "tbd"
+  - title: "Spider-Man: Brand New Day"
+    type: movie 
+    sacred_timeline: true
+    fichron_start: "tbd"
+    fichron_end: "tbd"
+  - title: "Avengers: Doomsday"
+    type: movie 
+    sacred_timeline: true
+    fichron_start: "tbd"
+    fichron_end: "tbd"
+  - title: "Avengers: Secret Wars"
+    type: movie 
+    sacred_timeline: true
+    fichron_start: "tbd"
+    fichron_end: "tbd"

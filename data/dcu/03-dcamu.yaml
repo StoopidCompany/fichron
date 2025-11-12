@@ -1,0 +1,69 @@
+title: DC Animated Movie Universe
+parent: arrowverse
+multiverse: true
+primary_timeline:
+  - title: "The Justice League: The Flashpoint Paradox"
+    type: movie
+    fichron_start: 2013
+    fichron_end: 2013
+    dcamu_timeline: false 
+  - title: "The Justice League: War"
+    type: movie
+    fichron_start: 2014
+    fichron_end: 2014
+    dcamu_timeline: true 
+  - title: Son or Batman
+    type: movie
+    fichron_start: 2014
+    fichron_end: 2014
+    dcamu_timeline: true 
+  - title: "The Justice League: Throne of Atlantis"
+    type: movie
+    fichron_start: 2015
+    fichron_end: 2015
+    dcamu_timeline: true 
+  - title: Batman vs. Robin
+    type: movie
+    fichron_start: 2015
+    fichron_end: 2015
+    dcamu_timeline: true 
+  - title: "Batman: Bad Blood"
+    type: movie
+    fichron_start: 2016
+    fichron_end: 2016
+    dcamu_timeline: true 
+  - title: Justice League vs. Teen Titans
+    type: movie
+    fichron_start: 2016
+    fichron_end: 2016
+    dcamu_timeline: true 
+  - title: Justice League Dark
+    type: movie
+    fichron_start: 2017
+    fichron_end: 2017
+    dcamu_timeline: true 
+  - title: "Suicide Squad: Hell to Pay"
+    type: movie
+    fichron_start: 2018
+    fichron_end: 2018
+    dcamu_timeline: true 
+  - title: The Death of Superman
+    type: movie
+    fichron_start: 2018
+    fichron_end: 2018
+    dcamu_timeline: true 
+  - title: Reign of the Supermen
+    type: movie
+    fichron_start: 2019
+    fichron_end: 2019
+    dcamu_timeline: true 
+  - title: "Batman: Hush"
+    type: movie
+    fichron_start: 2019
+    fichron_end: 2019
+    dcamu_timeline: true 
+  - title: "Justice League Dark: Apokolips War"
+    type: movie
+    fichron_start: 2020
+    fichron_end: 2020
+    dcamu_timeline: true 

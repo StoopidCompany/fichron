@@ -1,0 +1,104 @@
+title: Snyderverse
+parent: none
+multiverse: true
+primary_timeline:
+  - title: Watchmen
+    type: movie
+    fichron_start: 1983
+    fichron_end: 1983
+    snyderverse_timeline: false 
+  - title: Wonder Woman 1984 (intro only)
+    type: movie
+    fichron_start: ancient times
+    fichron_end: ancient times
+    snyderverse_timeline: true 
+  - title: Man of Steel 
+    type: movie 
+    fichron_start: 2013
+    fichron_end: 2014 
+    snyderverse_timeline: true 
+  - title: 'Batman v. Superman: Dawn of Justice'
+    type: movie 
+    fichron_start: 2014
+    fichron_end: 2016
+    snyderverse_timeline: true 
+  - title: Wonder Woman 
+    type: movie 
+    fichron_start: 2016
+    fichron_end: 2016
+    snyderverse_timeline: true 
+  - title: Suicide Squad
+    type: movie 
+    fichron_start: 2016
+    fichron_end: 2016
+    snyderverse_timeline: true 
+  - title: Justice League (Snyder Cut)
+    type: movie 
+    fichron_start: 2017
+    fichron_end: 2017
+    snyderverse_timeline: true 
+  - title: Shazam!
+    type: movie 
+    fichron_start: 2019
+    fichron_end: 2019
+    snyderverse_timeline: true 
+  - title: Birds of Prey
+    type: movie 
+    fichron_start: 2021
+    fichron_end: 2021
+    snyderverse_timeline: true 
+  - title: The Flash (up until first time travel)
+    type: movie 
+    fichron_start: 2023
+    fichron_end: 2016
+    snyderverse_timeline: true 
+  - title: Batman 
+    type: movie 
+    fichron_start: 1989
+    fichron_end: 1989
+    snyderverse_timeline: false 
+  - title: Batman Returns
+    type: movie 
+    fichron_start: 1992 
+    fichron_end: 1992
+    snyderverse_timeline: false 
+  - title: The Flash (from time travel to revert)
+    type: movie 
+    fichron_start: 2016
+    fichron_end: 2000? 
+    snyderverse_timeline: false 
+  - title: Wonder Woman 1984 (after intro only)
+    type: movie
+    fichron_start: 1984
+    fichron_end: 1984
+    snyderverse_timeline: true 
+  - title: Batman and Robin
+    type: movie 
+    fichron_start: 1997
+    fichron_end: 1997
+    snyderverse_timeline: false 
+  - title: Aquaman
+    type: movie 
+    fichron_start: 2018
+    fichron_end: 2018
+    snyderverse_timeline: false 
+  - title: The Suicide Squad
+    type: movie
+    fichron_start: 2021
+    fichron_end: 2021
+    snyderverse_timeline: false 
+  - title: Peacemaker Season 1
+    type: show
+    fichron_start: 2022
+    fichron_end: 2022
+    snyderverse_timeline: false 
+  - title: Black Adam
+    type: movie 
+    fichron_start: 2022
+    fichron_end: 2022
+    snyderverse_timeline: false 
+  - title: The Flash (ending)
+    type: movie 
+    fichron_start: 2023
+    fichron_end: 2023
+    snyderverse_timeline: false 
