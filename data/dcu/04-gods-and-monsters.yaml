@@ -1,0 +1,62 @@
+title: Gods and Monsters
+parent: 
+  - snyderverse
+  - dcamu
+multiverse: true
+primary_timeline:
+  - title: Creature Commandos
+    type: show
+    fichron_start: 2024
+    fichron_end: 2024
+  - title: Superman
+    type: movie
+    fichron_start: 2025
+    fichron_end: 2025
+  - title: Peacemaker Season 2
+    type: show
+    fichron_start: 2025
+    fichron_end: 2025
+  - title: Lanterns
+    type: show
+    fichron_start: tba
+    fichron_end: tba
+  - title: 'Supergirl: Woman of Tomorrow'
+    type: movie
+    fichron_start: 2026
+    fichron_end: 2026
+  - title: Clayface
+    type: movie
+    fichron_start: tba
+    fichron_end: tba
+  - title: Waller
+    type: show
+    fichron_start: tba
+    fichron_end: tba
+  - title: The Authority
+    type: movie
+    fichron_start: tba
+    fichron_end: tba
+  - title: Paradise Lost
+    type: show
+    fichron_start: tba
+    fichron_end: tba
+  - title: The Brave and the Bold
+    type: movie
+    fichron_start: tba
+    fichron_end: tba
+  - title: Booster Gold
+    type: show
+    fichron_start: tba
+    fichron_end: tba
+  - title: Swamp Thing
+    type: movie
+    fichron_start: tba
+    fichron_end: tba
+  - title: Teen Titans
+    type: movie
+    fichron_start: tba
+    fichron_end: tba
+  - title: Blue Beetle
+    type: show
+    fichron_start: tba
+    fichron_end: tba

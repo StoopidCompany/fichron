@@ -209,7 +209,7 @@ primary_timeline:
     sacred_timeline: true 
     fichron_start: "2024"
     fichron_end: "2024"
-  - title: Hawkeye Season 1
+  - title: Hawkeye
     type: show 
     sacred_timeline: true 
     fichron_start: "2024"
@@ -226,24 +226,29 @@ primary_timeline:
   - title: Deadpool
     type: movie
     sacred_timeline: false
-  - title: Echo Season 1
+  - title: Echo
     type: show 
     sacred_timeline: true 
     fichron_start: "2025"
     fichron_end: "2025"
-  - title: Moon Knight Season 1
+  - title: VisionQuest
     type: show 
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: Moon Knight
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2025"
+    fichron_end: "2025"
+  - title: "Black Panther: Wakanda Forever"
+    type: movie 
     sacred_timeline: true 
     fichron_start: "2025"
     fichron_end: "2025"
   - title: What If S01E06
     type: show 
     sacred_timeline: false 
-  - title: "Black Panther: Wakanda Forever"
-    type: show 
-    sacred_timeline: true 
-    fichron_start: "2025"
-    fichron_end: "2025"
   - title: What If S01E07
     type: show 
     sacred_timeline: false 
@@ -252,7 +257,7 @@ primary_timeline:
     sacred_timeline: true 
     fichron_start: "2025"
     fichron_end: "2025"
-  - title: She-Hulk Season 1
+  - title: She-Hulk
     type: show 
     sacred_timeline: true 
     fichron_start: "2025"
@@ -269,7 +274,7 @@ primary_timeline:
   - title: X-Men The Animated Series S04E18-S04E21
     type: show 
     sacred_timeline: false
-  - title: Ms. Marvel Season 1
+  - title: Ms. Marvel
     type: show 
     sacred_timeline: true 
     fichron_start: "2025"
@@ -291,11 +296,14 @@ primary_timeline:
   - title: Logan
     type: movie
     sacred_timeline: false 
-  - title: Warewolf By Night Season 1
+  - title: Warewolf By Night
     type: show 
     sacred_timeline: true 
     fichron_start: "2025"
     fichron_end: "2025"
+  - title: Marvel Zombies Season 1
+    type: show 
+    sacred_timeline: false 
   - title: "Guardians of the Galaxy: Holiday Special"
     type: show 
     sacred_timeline: true 
@@ -309,7 +317,13 @@ primary_timeline:
     sacred_timeline: true
     fichron_start: "2026"
     fichron_end: "2026"
-  - title: Secret Invasion S01E01-S01E04
+  - title: "Fantastic Four: First Steps"
+    type: movie 
+    sacred_timeline: false
+  - title: What If Season 2
+    type: show 
+    sacred_timeline: false 
+  - title: Secret Invasion
     type: show 
     sacred_timeline: true 
     fichron_start: "2026"
@@ -327,58 +341,69 @@ primary_timeline:
   - title: X-Men '97 S01E08-S01E10
     type: show 
     sacred_timeline: false
+  - title: What If Season 3
+    type: show 
+    sacred_timeline: false 
   - title: Deadpool 3
     type: movie 
     sacred_timeline: false
-  - title: Fantastic Four S01E05-S01E06
-    type: show
-    sacred_timeline: false 
-  - title: What If Season 2
-    type: show 
-    sacred_timeline: false 
   - title: Agatha All Along
     type: show 
     sacred_timeline: true 
-    fichron_start: "2027"
+    fichron_start: "2026"
+    fichron_end: "2026"
+  - title: "Daredevil: Born Again Season 1" 
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2026"
     fichron_end: "2027"
   - title: "Captain America: Brave New World"
     type: movie 
     sacred_timeline: true
     fichron_start: "2027"
     fichron_end: "2027"
+  - title: Fantastic Four S01E05-S01E06
+    type: show
+    sacred_timeline: false 
   - title: Thunderbolts*
     type: movie 
     sacred_timeline: true
-    fichron_start: "tbd"
-    fichron_end: "tbd"
-  - title: "Daredevil: Born Again Season 1" 
-    type: show 
-    sacred_timeline: true 
-    fichron_start: "tbd"
-    fichron_end: "tbd"
-  - title: "Fantastic Four: First Steps"
-    type: movie 
-    sacred_timeline: tbd
-    fichron_start: "n/a"
-    fichron_end: "tbd"
+    fichron_start: "2027"
+    fichron_end: "2027"
   - title: Ironheart
     type: show 
     sacred_timeline: true 
-    fichron_start: "tbd"
-    fichron_end: "tbd"
+    fichron_start: "2027"
+    fichron_end: "2027"
   - title: Wonder Man
     type: show 
     sacred_timeline: true 
+    fichron_start: "2028"
+    fichron_end: "2028"
+  - title: "Daredevil: Born Again Season 2" 
+    type: show 
+    sacred_timeline: true 
+    fichron_start: "2028"
+    fichron_end: "2028"
+  - title: Punisher Special Presentation
+    type: show 
+    sacred_timeline: true
     fichron_start: "tbd"
     fichron_end: "tbd"
-  - title: BLADE
+  - title: Your Friendly Neighborhood Spider-Man Season 1
+    type: show 
+    sacred_timeline: false
+  - title: "Spider-Man: Brand New Day"
     type: movie 
     sacred_timeline: true
     fichron_start: "tbd"
     fichron_end: "tbd"
-  - title: What If Season 3
+  - title: Your Friendly Neighborhood Spider-Man Season 2
     type: show 
-    sacred_timeline: false 
+    sacred_timeline: false
+  - title: X-Men '97 Season 2
+    type: show 
+    sacred_timeline: false
   - title: "Avengers: Doomsday"
     type: movie 
     sacred_timeline: true

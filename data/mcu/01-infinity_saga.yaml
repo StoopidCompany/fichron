@@ -10,23 +10,10 @@ primary_timeline:
     type: movie
     fichron_start: "1995"
     fichron_end: "1995"
-    fichron_flashes:
-      - type: forward
-        element: mid-credits
-        fichron_start: "2018"
-        fichron_end: "2018"
   - title: "Captain America: The First Avenger"
     type: movie 
     fichron_start: "2008"
     fichron_end: "2010"
-    fichron_flashes:
-      - type: back
-        element: in-movie
-        fichron_start: "1942"
-        fichron_end: "1945"
-      - type: forward 
-        element: after-credits
-        fichron_date: "2012"
   - title: Iron Man
     type: movie 
     fichron_start: "2009"
@@ -46,15 +33,6 @@ primary_timeline:
     fichron_start: "2010" 
     fichron_end: "2010"
     furrys_big_week: true
-    fichron_flashes:
-      - type: back 
-        element: in-movie 
-        fichron_start: "965"
-        fichron_end: "965"
-      - type: forward 
-        element: post-credits
-        fichron_start: "2011"
-        fichron_end: "2011" 
   - title: The Consultant
     type: one-shot 
     fichron_start: "2011" 
@@ -71,11 +49,6 @@ primary_timeline:
     type: movie 
     fichron_start: "2012" 
     fichron_end: "2012"
-    fichron_flashes:
-      - type: back
-        element: in-movie 
-        fichron_start: "2988 BCE"
-        fichron_end: "2988 BCE"
   - title: Iron Man 3 
     type: movie 
     fichron_start: "2012"
