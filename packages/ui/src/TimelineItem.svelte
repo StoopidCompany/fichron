@@ -15,7 +15,7 @@
 </script>
 
 <Card hover={!!onclick} padding="md">
-  <div class="timeline-item" onclick={handleClick} role={onclick ? 'button' : undefined} tabindex={onclick ? 0 : undefined}>
+  <div class="timeline-item" onclick={handleClick}>
     <h3 class="title">{entry.title}</h3>
 
     {#if entry.type}
