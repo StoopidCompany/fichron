@@ -1,0 +1,47 @@
+{
+  "env": {
+    "es2020": true,
+    "node": true
+  },
+  "root": true,
+  "plugins": [
+    "import",
+    "@typescript-eslint",
+    "tsdoc",
+    "svelte"
+  ],
+  "extends": [
+    "plugin:@typescript-eslint/recommended",
+    "plugin:prettier/recommended",
+    "plugin:svelte/recommended",
+    "plugin:svelte/prettier"
+  ],
+  "rules": {
+    "import/order": [
+      "error",
+      {
+        "groups": ["builtin", "external", "internal"],
+        "newlines-between": "never"
+      }
+    ],
+    "tsdoc/syntax": "warn",
+    "indent": ["error", 2, { "SwitchCase": 1 }],
+    "linebreak-style": ["error", "unix"],
+    "no-console": "error",
+    "no-unused-vars": "error",
+    "prettier/prettier": "error"
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json",
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "overrides": [
+    {
+      "files": ["**/*.svelte"],
+      "parser": "typescript-eslint-parser"
+    }
+  ],
+  "ignorePatterns": [".svelte-kit/", "dist/"]
+}

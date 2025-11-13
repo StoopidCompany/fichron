@@ -1,0 +1,24 @@
+{
+  "name": "fichron",
+  "version": "1.0.0",
+  "description": "A flexible client-side tool for filtering and exploring fictional universe timelines",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter web dev",
+    "build": "pnpm -r build",
+    "preview": "pnpm --filter web preview",
+    "typecheck": "pnpm -r typecheck",
+    "lint": "pnpm -r lint"
+  },
+  "keywords": ["timeline", "fictional-universe", "svelte", "yaml", "mcu", "dcu"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "@types/node": "^22.10.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  }
+}

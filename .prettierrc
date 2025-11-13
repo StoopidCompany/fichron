@@ -1,0 +1,27 @@
+{
+    "semi": false,
+    "trailingComma": "none",
+    "singleQuote": true,
+    "printWidth": 120,
+    "tabwidth": 2, 
+    "overrides": [
+        { 
+            "files": "*.yaml",
+            "options": {
+                "tabWidth": 2
+            }
+        },
+        {
+            "files": "*.md",
+            "options": {
+                "proseWrap": "always"
+            }
+        },
+        {
+            "files": "*.json",
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ]
+}
